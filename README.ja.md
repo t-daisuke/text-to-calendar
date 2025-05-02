@@ -1,4 +1,4 @@
-# テキストからカレンダー追加 Chrome拡張機能
+# text to calendar
 
 選択したテキストをGoogleカレンダーの予定として簡単に追加できるChrome拡張機能です。
 

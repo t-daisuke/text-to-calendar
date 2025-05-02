@@ -1,4 +1,4 @@
-# Text to Calendar Chrome Extension
+# Text To Calendar
 
 A simple Chrome extension that allows you to quickly add selected text as an event to Google Calendar.
 

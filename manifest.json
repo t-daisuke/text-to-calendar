@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "選択テキストからカレンダー予定追加",
+  "name": "Text To Calendar",
   "version": "1.0",
   "description": "選択したテキストをGoogleカレンダーの予定として追加できます",
   "permissions": [
