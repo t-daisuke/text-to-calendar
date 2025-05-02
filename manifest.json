@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "選択テキストからカレンダー予定追加",
+  "version": "1.0",
+  "description": "選択したテキストをGoogleカレンダーの予定として追加できます",
+  "permissions": [
+    "contextMenus",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+} 
